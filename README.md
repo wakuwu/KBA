@@ -29,8 +29,7 @@
       </a>
       <img src="https://www.easycounter.com/counter.php?umiskky" border="0" alt="Hit Counter">
     </div>
-    <br>
-    <div style="line-height: 2;">
+    <div style="line-height: 3;">
       <b>University of Science and Technology Beijing &nbsp; | &nbsp;  Tsinghua University</b>
     </div>
   </p>
