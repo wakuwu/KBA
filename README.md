@@ -1,6 +1,6 @@
 <div align="center">
   <img src="https://iccv.thecvf.com/static/core/img/iccv-navbar-logo.svg" alt="conference_logo" height="50">
-  <h1>Kaleidoscopic Background Attack: Disrupting Pose Estimation <br> with Multi-Fold Radial Symmetry Textures</h1>
+  <h2>Kaleidoscopic Background Attack: Disrupting Pose Estimation <br> with Multi-Fold Radial Symmetry Textures</h2>
   <p align="center">
     <div style="line-height: 3;">
       <a href="https://scholar.google.com/citations?user=JY9oXVIAAAAJ&hl=en"><strong>Xinlong Ding</strong></a>
@@ -19,6 +19,7 @@
       ·
       <a href="https://scholar.google.com/citations?user=A1gA9XIAAAAJ&hl=en"><strong>Jiansheng Chen</strong></a>
     </div>
+    <br>
     <div style="line-height: 3;">
       <a href="https://arxiv.org/pdf/2507.10265">
         <img src='https://img.shields.io/badge/arXiv-2507.10265-b31b1b?logo=arxiv&logoColor=white' alt='arXiv'>
@@ -28,6 +29,7 @@
       </a>
       <img src="https://www.easycounter.com/counter.php?umiskky" border="0" alt="Hit Counter">
     </div>
+    <br>
     <div style="line-height: 2;">
       <b>University of Science and Technology Beijing &nbsp; | &nbsp;  Tsinghua University</b>
     </div>
