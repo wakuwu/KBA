@@ -1,0 +1,26 @@
+[project]
+name = "kba"
+version = "1.0.0"
+description = "Official PyTorch implementation for ICCV 2025 Paper​​: ​​Kaleidoscopic Background Attack: Disrupting Pose Estimation with Multi-Fold Radial Symmetry Textures​."
+readme = "README.md"
+requires-python = ">=3.10.0, <3.11"
+dependencies = [
+    "cmake>=3.14,<3.27",
+    "einops>=0.8.1",
+    "gradio>=5.38.0",
+    "huggingface-hub[torch]>=0.22",
+    "iopath>=0.1.10",
+    "joblib",
+    "matplotlib>=3.10.3",
+    "opencv-python>=4.12.0.88",
+    "pyglet<2",
+    "roma>=1.5.3",
+    "scipy>=1.15.3",
+    "seaborn>=0.13.2",
+    "tensorboard>=2.20.0",
+    "torch==2.4.1",
+    "torchaudio==2.4.1",
+    "torchvision==0.19.1",
+    "tqdm>=4.67.1",
+    "trimesh>=4.7.1",
+]

@@ -1,0 +1,10 @@
+.venv/
+data/cms/
+data/dataset/
+data/environments/
+data/results/
+
+**/__pycache__/
+*.pyc
+
+.vscode/
