@@ -1,6 +1,6 @@
 <div align="center">
   <img src="https://iccv.thecvf.com/static/core/img/iccv-navbar-logo.svg" alt="conference_logo" height="50">
-  <h2>Kaleidoscopic Background Attack: Disrupting Pose Estimation <br> with Multi-Fold Radial Symmetry Textures</h2>
+  <h2>Kaleidoscopic Background Attack:Disrupting Pose Estimation <br> with Multi-Fold Radial Symmetry Textures</h2>
   <p align="center">
     <div style="line-height: 3;">
       <a href="https://scholar.google.com/citations?user=JY9oXVIAAAAJ&hl=en"><strong>Xinlong Ding</strong></a>
